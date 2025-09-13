@@ -12,3 +12,9 @@ El proyecto incluye el tp de patrones creacionales en Java sin el uso de Lombok
 2. Ejecutar la clase principal `Main.java`.
 ## Aclaraciones
 1. Para este trabajo tuvimos que cambiar algunas cosas, como crear los getters y setter, los constructores vacios para un mejor funcionamiento y los constructores necesarios al no usar lombok. El enfoque fue no cambiar el main sino adaptarnos y hacer los cambios necesarios en todas las otras clases.
+2. Integantes:
+-Mateo Marchesi
+-Facundo Reboredo
+-Nicolas Cuitiño
+-Juan Gallardo
+-Santiago Dominguez
